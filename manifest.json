@@ -1,6 +1,7 @@
 {
   "name": "SpeedxHUD",
   "short_name": "SpeedxHUD",
+  "description": "Free Fire sensitivity settings for Android phones",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#000000",
